@@ -1,0 +1,41 @@
+body{
+				background-color: lightblue;
+				text-transform: capitalize;
+				text-align: center;
+}
+h1{
+				font-style: italic;
+}
+div.masterform{
+				text-align: center;
+				font-style: italic;
+				border: 20px solid wheat;
+				margin: auto;
+				width: 75vw;
+				line-height: 70px;
+				border-radius: 100px;
+				padding: 20px;	
+				font-size: 20px;
+				background-color: whitesmoke;
+				
+}
+div.firstname_text{
+				font-style: italic;
+				font-family: open-sans;
+				
+}
+div.lastname_text{
+				font-style: italic;
+				font-family: open-sans;
+}
+.dropdown{
+		height: 35px;
+  width: 140px;
+  padding: 5px;
+  margin: 15px 10px 10px 10px;
+  border: 1px solid #c0c0c0;
+  border-radius: 4px;
+}
+div.submit{
+				color: blueviolet;
+}
